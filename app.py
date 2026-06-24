@@ -308,10 +308,10 @@ n_unidades = st.number_input("Quantidade de unidades", min_value=1, max_value=8,
                               value=2, step=1)
 
 DEFAULTS = [
-    {"nome":"Apartamento 601","tipo_idx":1,"at":14.1738,"ac":140.0037,
+    {"nome":"Apartamento nº","tipo_idx":1,"at":10.0,"ac":100.0,
      "t1_idx":1,"t2_idx":0,"t3_idx":0,"t4_idx":0,"c1_idx":1,
      "cob_idx":2,"par_idx":1,"for_idx":2,"ins_idx":1,"pis_idx":5,"esq_idx":1},
-    {"nome":"Garagem 113","tipo_idx":7,"at":1.8085,"ac":31.2134,
+    {"nome":"Garagem nº","tipo_idx":7,"at":1.0,"ac":15.0,
      "t1_idx":1,"t2_idx":0,"t3_idx":0,"t4_idx":0,"c1_idx":1,
      "cob_idx":2,"par_idx":1,"for_idx":2,"ins_idx":0,"pis_idx":1,"esq_idx":1},
 ]
